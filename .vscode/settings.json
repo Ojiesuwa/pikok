@@ -1,0 +1,11 @@
+{
+  "js/ts.tsserver.web.projectWideIntellisense.enabled": true,
+  "editor.inlineSuggest.edits.allowCodeShifting": "always",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.wrapOnEscapedLineFeeds": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 400
+}
