@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a0835f-d3f1-7640-a9f5-81cb162b4dc1",
+    "sha256": "c9ef4b9d772c26914edd5c3707af95039dd05a936401db0396718a519f41df2b",
+    "created": "2026-09-08T23:34:51.608Z",
+    "duration": 6.9598126,
+    "channels": 1,
+    "models": ["2187e11a-3532-4498-b076-81fa530bdd49"],
+    "model_info": {
+      "2187e11a-3532-4498-b076-81fa530bdd49": {
+        "name": "general-nova-3",
+        "version": "2025-07-31.0",
+        "arch": "nova-3"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "You know, I think one thing Christians sometimes underestimate is God's favor.",
+            "confidence": 0.99902344,
+            "words": [
+              {
+                "word": "you",
+                "start": 0.48,
+                "end": 0.79999995,
+                "confidence": 0.9741211,
+                "punctuated_word": "You"
+              },
+              {
+                "word": "know",
+                "start": 0.79999995,
+                "end": 1.44,
+                "confidence": 0.9880371,
+                "punctuated_word": "know,"
+              },
+              {
+                "word": "i",
+                "start": 1.92,
+                "end": 2.1599998,
+                "confidence": 0.99902344,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "think",
+                "start": 2.1599998,
+                "end": 2.8,
+                "confidence": 1.0,
+                "punctuated_word": "think"
+              },
+              {
+                "word": "one",
+                "start": 3.04,
+                "end": 3.36,
+                "confidence": 0.9873047,
+                "punctuated_word": "one"
+              },
+              {
+                "word": "thing",
+                "start": 3.36,
+                "end": 3.6,
+                "confidence": 1.0,
+                "punctuated_word": "thing"
+              },
+              {
+                "word": "christians",
+                "start": 3.6,
+                "end": 4.3199997,
+                "confidence": 0.88134766,
+                "punctuated_word": "Christians"
+              },
+              {
+                "word": "sometimes",
+                "start": 4.3199997,
+                "end": 4.7999997,
+                "confidence": 0.99902344,
+                "punctuated_word": "sometimes"
+              },
+              {
+                "word": "underestimate",
+                "start": 4.7999997,
+                "end": 5.6,
+                "confidence": 1.0,
+                "punctuated_word": "underestimate"
+              },
+              {
+                "word": "is",
+                "start": 5.6,
+                "end": 5.92,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "god's",
+                "start": 5.92,
+                "end": 6.3199997,
+                "confidence": 0.9941406,
+                "punctuated_word": "God's"
+              },
+              {
+                "word": "favor",
+                "start": 6.3199997,
+                "end": 6.64,
+                "confidence": 0.9970703,
+                "punctuated_word": "favor."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
